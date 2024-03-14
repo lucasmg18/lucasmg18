@@ -32,9 +32,9 @@
   I'm Lucas Martín García
 </h1>
 
-<div align="center" font-size: 40px style=" font-size: 24px;">
+<h3 align="center" >
   A dedicated developer passionate about Machine Learning and Algorithms from Spain.
-</div>
+</h3>
 
 
 
