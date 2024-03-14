@@ -47,7 +47,7 @@ I am a Full Stack Developer from Spain.
 
 - :seedling: Exploring Machine Learning and algorithm advancements.
 
-- :zap: In my free time, I solve competitive problems and create apps and games.
+- :zap: In my free time, I participate in competitive programming contests and create apps and games.
 
 - :ice_hockey: National Roller Hockey Player.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-lucasmg18-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martingarcialucas/) [![Gmail Badge](https://img.shields.io/badge/-margarlucas@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:margarlucas@gmail.com)
