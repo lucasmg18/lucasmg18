@@ -13,6 +13,7 @@
   
 </div>
 
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 -->
 
 <h1 align="center"> 
@@ -24,7 +25,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p0OGl3ZGVnNGVpa2Jjd2pjdmRuODlrZmdra3k3OXZsZDd2YXJvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f3Ft7V5eBKX55XDJXC/giphy.gif" width="150"/>
+  <img src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTAzNzQxODgsIm5iZiI6MTcxMDM3Mzg4OCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzEzVDIzNTEyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc4MmEzMDc2ZGVlZjVjZGQ0MTZkMWQ2ODhlNDAyM2Y4ZmU0Y2RmMWJkNDgwZWFkZDcxMzQ5N2U0MzdmMmYyMzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.H6m5OO3xowY3diPVt1SJvxk55mvAWe9JlC3sZ3ial20" width="150"/>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/martingarcialucas/">
