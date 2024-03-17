@@ -25,7 +25,6 @@
 </div>
 
 -->
-
 <h1 align="center"> 
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
@@ -102,6 +101,8 @@ I am a Full Stack Developer from Spain.
 ---
 
 ### :fire: My Stats :
+<img src="https://komarev.com/ghpvc/?username=lucasmg18&style=flat-square&color=blue" alt=""/> 
+  
 [![Top Trophies](https://github-profile-trophy.vercel.app/?username=lucasmg18&theme=vision-friendly-dark)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucasmg18&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Stats](https://github-readme-stats.vercel.app/api?username=lucasmg18&show_icons=true&locale=en&theme=vision-friendly-dark)](https://github-readme-stats.vercel.app)
