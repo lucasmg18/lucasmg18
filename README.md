@@ -42,7 +42,7 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer from Spain.
 
-- :telescope: I’m currently studying a Double Degree of Computer Science and Mathematics.
+- :telescope: I recently finished a Double Degree of Computer Science and Mathematics.
 
 - :seedling: Exploring Machine Learning and algorithm advancements.
 
