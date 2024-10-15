@@ -57,6 +57,11 @@ I am a Full Stack Developer from Spain.
 ### Google Summer of Code 2024 :
 Recently participated in the Google Summer of Code with the organization OpenAstronomy, working on a research project in collaboration with the IPAC-Caltech research group and the NASA Science Platform Initiative:
 
+#### GitHub Official Project:
+The entire project has been developed in the following OpenAstronomy GitHub repository:
+
+[Official GitHub Project Repository](https://github.com/OpenAstronomy/rnn-lightcurve-gapfill)
+
 #### GSoC24 Official Project:
 This project was developed during Google Summer of Code 2024 by me as a contributor and by the mentors Jessica Krick and Shoubaneh Hemmati.
 
