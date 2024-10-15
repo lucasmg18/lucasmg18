@@ -52,6 +52,21 @@ I am a Full Stack Developer from Spain.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-lucasmg18-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martingarcialucas/) [![Gmail Badge](https://img.shields.io/badge/-margarlucas@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:margarlucas@gmail.com)
 
 
+---
+
+### Google Summer of Code 2024 :
+Recently participated in the Google Summer of Code with the organization OpenAstronomy, working on a research project in collaboration with the IPAC-Caltech research group and the NASA Science Platform Initiative:
+
+#### GSoC24 Official Project:
+This project was developed during Google Summer of Code 2024 by me as a contributor and by the mentors Jessica Krick and Shoubaneh Hemmati.
+
+[Official GSOC 2024 Project](https://summerofcode.withgoogle.com/programs/2024/projects/CR12H6Wf)
+
+#### Project Blog Post
+
+A blog post that covers the development process of this project has been published. You can read the blog post through the following link:
+
+[Read the Blog Post About the GSOC 2024 Project](https://lucasmartingarciagsoc24openastronomy.blogspot.com/)
 
 ---
 
