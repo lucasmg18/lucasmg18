@@ -42,13 +42,12 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer from Spain.
 
-- :telescope: I recently finished a Double Degree of Computer Science and Mathematics.
+- :telescope: Currently undergoing an AI and Optimization Phd
 
 - :seedling: Exploring Machine Learning and algorithm advancements.
 
 - :zap: In my free time, I participate in competitive programming contests and create apps and games.
 
-- :ice_hockey: National Roller Hockey Player.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-lucasmg18-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martingarcialucas/) [![Gmail Badge](https://img.shields.io/badge/-margarlucas@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:margarlucas@gmail.com)
 
 
@@ -123,8 +122,6 @@ A blog post that covers the development process of this project has been publish
 ### :fire: My Stats :
 <img src="https://komarev.com/ghpvc/?username=lucasmg18&style=flat-square&color=blue" alt=""/> 
   
-[![Top Trophies](https://github-profile-trophy.vercel.app/?username=lucasmg18&theme=vision-friendly-dark)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucasmg18&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Stats](https://github-readme-stats.vercel.app/api?username=lucasmg18&show_icons=true&locale=en&theme=vision-friendly-dark)](https://github-readme-stats.vercel.app)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmg18&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
